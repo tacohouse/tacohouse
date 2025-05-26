@@ -1,5 +1,15 @@
 ## Hi there 👋
+<div align="left">
+  <a href="https://www.linkedin.com/in/luis-alzamora-/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
+###
+
+<img src="https://raw.githubusercontent.com/tacohouse/tacohouse/output/snake.svg" alt="Snake animation" />
+
+###
 <!--
 **tacohouse/tacohouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
